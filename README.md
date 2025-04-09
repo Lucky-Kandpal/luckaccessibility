@@ -55,6 +55,7 @@ dependencies {
     implementation 'com.github.Lucky-Kandpal:luckaccessibility:latest-version'
 }
 ```
+current latest-version is '1.0.0'
 
 Replace `latest-version` with the latest release tag available on [JitPack](https://jitpack.io/#Lucky-Kandpal/luckaccessibility).
 
