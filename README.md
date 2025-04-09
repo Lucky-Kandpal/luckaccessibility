@@ -104,5 +104,3 @@ Feel free to open a PR or submit an issue if you find a bug or want to propose a
 **Lucky Kandpal**  
 📧 [LinkedIn](https://www.linkedin.com/in/luckykandpal/)  
 🔗 [JitPack Repo](https://jitpack.io/#Lucky-Kandpal/luckaccessibility)
-```
-
