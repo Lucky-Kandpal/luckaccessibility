@@ -19,6 +19,8 @@ dependencyResolutionManagement {
     }
 }
 
+
+
 rootProject.name = "AccessibilityService"
 include(":app")
 include(":LuckAccessibility")
