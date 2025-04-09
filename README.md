@@ -107,7 +107,5 @@ Feel free to open a PR or submit an issue if you find a bug or want to propose a
 
 ---
 
----
-
 ```
 
